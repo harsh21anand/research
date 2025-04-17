@@ -1,6 +1,5 @@
 -- Create the main database
-CREATE DATABASE IF NOT EXISTS technova_db;
-USE technova_db;
+
 
 -- Users table
 CREATE TABLE IF NOT EXISTS users (
