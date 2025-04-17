@@ -3,7 +3,7 @@ $host = '127.0.0.1';
 $dbname = 'harsh_db';
 $username = 'root';
 $password = 'harsh123';
-$port = 3306;
+$port = 3307;
 
 try {
     $pdo = new PDO(
