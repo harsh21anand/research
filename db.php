@@ -1,6 +1,6 @@
 <?php
 $host = '127.0.0.1';
-$dbname = 'technova_db';
+$dbname = 'harsh_db';
 $username = 'root';
 $password = 'harsh123';
 $port = 3306;
